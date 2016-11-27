@@ -1,0 +1,4 @@
+#:D:\Desktop_Files\TestCoreApp\TestWebApp\TestWebApp.xproj
+D:\Desktop_Files\TestCoreApp\TestWebApp\TestWebApp.xproj|D:\Desktop_Files\TestCoreApp\TestWebApp.Core\TestWebApp.Core.xproj
+D:\Desktop_Files\TestCoreApp\TestWebApp\TestWebApp.xproj|D:\Desktop_Files\TestCoreApp\TestWebApp.Infrastructure\TestWebApp.Infrastructure.xproj
+D:\Desktop_Files\TestCoreApp\TestWebApp.Infrastructure\TestWebApp.Infrastructure.xproj|D:\Desktop_Files\TestCoreApp\TestWebApp.Core\TestWebApp.Core.xproj
